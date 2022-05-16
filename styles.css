@@ -1,0 +1,47 @@
+#container-image {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 40px;
+   
+  }
+
+  .centered {
+    position: absolute;
+   top: 44%;
+   left: 40%;
+   font-size:60px;
+   }
+   body{
+     padding-left: 20px;
+     padding-right: 20px;
+   }
+   p{
+    padding-left: 200px;
+    padding-right: 200px;
+     width: 900px;
+     font-size: 20px;
+     color: rgb(76, 76, 76);
+
+   }
+   h3{
+    color: rgb(76, 76, 76);
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
+   li{
+     margin-left: 40px;
+     margin-right: 40px;
+     color: rgb(76, 76, 76);
+   }
+   .padding-1{
+    padding-left: 200px;
+    padding-right: 200px;
+   }
+
+   .image-center{
+    margin-left: 500px;
+    margin-right: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+   }
